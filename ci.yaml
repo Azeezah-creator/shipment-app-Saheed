@@ -29,3 +29,5 @@ on:
 
           - name: Build application
             run: npm run build
+
+    #Hopefully this works now!
